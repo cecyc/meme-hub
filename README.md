@@ -1,4 +1,4 @@
-meme-hub
+Meme Hub
 ========
 
-My personal repertoire of gifs, from the internet. Because gifs are life.
+My personal repo of gifs, live from the internet!
